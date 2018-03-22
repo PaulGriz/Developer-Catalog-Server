@@ -7,10 +7,10 @@
 
 ---
 
-**IP Address:** ``18.188.131.85`` 
-**URL:** http://18.188.131.85.xip.io/
+**IP Address:** ``18.188.131.85``   
+**URL:** http://18.188.131.85.xip.io/   
 
-**Software Installed: **
+**Software Installed:**
 
  1. **Python 3 Pip**
 
@@ -46,8 +46,9 @@
    3. Select: ``UTC``
 
 2. Update all currently installed packages
-  - ``sudo apt-get update``
-  - ``sudo apt-get upgrade``
+
+    1. ``sudo apt-get update``
+    1. ``sudo apt-get upgrade``
 
 3. Install Needed Packages
 
@@ -87,11 +88,11 @@
 
 1. Added user: ``grader``
 
-  - Password: ``grader``
+  1. Password: ``grader``
 
 2. Give ``sudo`` access 
-  - ``sudo nano /etc/sudoers.d/grader``
-  - ``grader ALL=(ALL:ALL) ALL``
+  1. ``sudo nano /etc/sudoers.d/grader``
+  1. ``grader ALL=(ALL:ALL) ALL``
 
 3. Create new SSH key for ``grader``
 
