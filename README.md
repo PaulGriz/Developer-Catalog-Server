@@ -16,13 +16,13 @@
 
     > ``sudo apt-get install python3-pip``
 
-    2. **Apache2**
+2. **Apache2**
 
     > [Documentation](https://httpd.apache.org/download.cgi)
     >
     > Linux command: ``sudo apt-get install apache2``
 
-    3. **mod_wsgi**
+3. **mod_wsgi**
 
     > [Documentation](https://modwsgi.readthedocs.io/en/develop/)
     >
